@@ -1,0 +1,14 @@
+/home/ashraful-islam/Documents/C#-learning/CsharpProject/TestProject/bin/Debug/net8.0/TestProject
+/home/ashraful-islam/Documents/C#-learning/CsharpProject/TestProject/bin/Debug/net8.0/TestProject.deps.json
+/home/ashraful-islam/Documents/C#-learning/CsharpProject/TestProject/bin/Debug/net8.0/TestProject.runtimeconfig.json
+/home/ashraful-islam/Documents/C#-learning/CsharpProject/TestProject/bin/Debug/net8.0/TestProject.dll
+/home/ashraful-islam/Documents/C#-learning/CsharpProject/TestProject/bin/Debug/net8.0/TestProject.pdb
+/home/ashraful-islam/Documents/C#-learning/CsharpProject/TestProject/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/ashraful-islam/Documents/C#-learning/CsharpProject/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/home/ashraful-islam/Documents/C#-learning/CsharpProject/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/home/ashraful-islam/Documents/C#-learning/CsharpProject/TestProject/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/home/ashraful-islam/Documents/C#-learning/CsharpProject/TestProject/obj/Debug/net8.0/TestProject.dll
+/home/ashraful-islam/Documents/C#-learning/CsharpProject/TestProject/obj/Debug/net8.0/refint/TestProject.dll
+/home/ashraful-islam/Documents/C#-learning/CsharpProject/TestProject/obj/Debug/net8.0/TestProject.pdb
+/home/ashraful-islam/Documents/C#-learning/CsharpProject/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
+/home/ashraful-islam/Documents/C#-learning/CsharpProject/TestProject/obj/Debug/net8.0/ref/TestProject.dll
