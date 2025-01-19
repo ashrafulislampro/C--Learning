@@ -1,0 +1,15 @@
+/home/ashraful-islam/Documents/C#-learning/Student-Grading-Project/bin/Debug/net8.0/Student-Grading-Project
+/home/ashraful-islam/Documents/C#-learning/Student-Grading-Project/bin/Debug/net8.0/Student-Grading-Project.deps.json
+/home/ashraful-islam/Documents/C#-learning/Student-Grading-Project/bin/Debug/net8.0/Student-Grading-Project.runtimeconfig.json
+/home/ashraful-islam/Documents/C#-learning/Student-Grading-Project/bin/Debug/net8.0/Student-Grading-Project.dll
+/home/ashraful-islam/Documents/C#-learning/Student-Grading-Project/bin/Debug/net8.0/Student-Grading-Project.pdb
+/home/ashraful-islam/Documents/C#-learning/Student-Grading-Project/obj/Debug/net8.0/Student-Grading-Project.GeneratedMSBuildEditorConfig.editorconfig
+/home/ashraful-islam/Documents/C#-learning/Student-Grading-Project/obj/Debug/net8.0/Student-Grading-Project.AssemblyInfoInputs.cache
+/home/ashraful-islam/Documents/C#-learning/Student-Grading-Project/obj/Debug/net8.0/Student-Grading-Project.AssemblyInfo.cs
+/home/ashraful-islam/Documents/C#-learning/Student-Grading-Project/obj/Debug/net8.0/Student-Grading-Project.csproj.CoreCompileInputs.cache
+/home/ashraful-islam/Documents/C#-learning/Student-Grading-Project/obj/Debug/net8.0/Student-Grading-Project.sourcelink.json
+/home/ashraful-islam/Documents/C#-learning/Student-Grading-Project/obj/Debug/net8.0/Student-Grading-Project.dll
+/home/ashraful-islam/Documents/C#-learning/Student-Grading-Project/obj/Debug/net8.0/refint/Student-Grading-Project.dll
+/home/ashraful-islam/Documents/C#-learning/Student-Grading-Project/obj/Debug/net8.0/Student-Grading-Project.pdb
+/home/ashraful-islam/Documents/C#-learning/Student-Grading-Project/obj/Debug/net8.0/Student-Grading-Project.genruntimeconfig.cache
+/home/ashraful-islam/Documents/C#-learning/Student-Grading-Project/obj/Debug/net8.0/ref/Student-Grading-Project.dll
