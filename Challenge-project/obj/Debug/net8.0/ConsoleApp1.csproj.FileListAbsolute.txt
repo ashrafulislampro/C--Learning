@@ -1,0 +1,15 @@
+/home/ashraful-islam/Documents/C#-learning/Challenge-project/bin/Debug/net8.0/ConsoleApp1
+/home/ashraful-islam/Documents/C#-learning/Challenge-project/bin/Debug/net8.0/ConsoleApp1.deps.json
+/home/ashraful-islam/Documents/C#-learning/Challenge-project/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/home/ashraful-islam/Documents/C#-learning/Challenge-project/bin/Debug/net8.0/ConsoleApp1.dll
+/home/ashraful-islam/Documents/C#-learning/Challenge-project/bin/Debug/net8.0/ConsoleApp1.pdb
+/home/ashraful-islam/Documents/C#-learning/Challenge-project/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/ashraful-islam/Documents/C#-learning/Challenge-project/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/ashraful-islam/Documents/C#-learning/Challenge-project/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/home/ashraful-islam/Documents/C#-learning/Challenge-project/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/ashraful-islam/Documents/C#-learning/Challenge-project/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
+/home/ashraful-islam/Documents/C#-learning/Challenge-project/obj/Debug/net8.0/ConsoleApp1.dll
+/home/ashraful-islam/Documents/C#-learning/Challenge-project/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/home/ashraful-islam/Documents/C#-learning/Challenge-project/obj/Debug/net8.0/ConsoleApp1.pdb
+/home/ashraful-islam/Documents/C#-learning/Challenge-project/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/home/ashraful-islam/Documents/C#-learning/Challenge-project/obj/Debug/net8.0/ref/ConsoleApp1.dll
