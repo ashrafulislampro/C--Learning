@@ -12,3 +12,4 @@
 /home/ashraful-islam/Documents/C#-learning/CsharpProject/TestProject/obj/Debug/net8.0/TestProject.pdb
 /home/ashraful-islam/Documents/C#-learning/CsharpProject/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
 /home/ashraful-islam/Documents/C#-learning/CsharpProject/TestProject/obj/Debug/net8.0/ref/TestProject.dll
+/home/ashraful-islam/Documents/C#-learning/CsharpProject/TestProject/obj/Debug/net8.0/TestProject.sourcelink.json
