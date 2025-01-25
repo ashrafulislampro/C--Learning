@@ -1,53 +1,28 @@
-﻿string sku = "01-MN-L";
-string[] product = sku.Split('-');
-
-string type = "";
-string color = "";
-string size = "";
-
-switch (product[0])
+﻿Random random = new Random();
+int current = 0;
+int hero = 10;
+int monster = 10;
+do
 {
-    case "01":
-        type = "Sweat Shirt";
-        break;
-    case "02":
-        type = "T-Shirt";
-        break;
-    case "03":
-        type = "Sweat pants";
-        break;
-    default:
-        type = "Other";
-        break;
-}
 
-switch (product[1])
-{
-    case "BL":
-        color = "Black";
-        break;
-    case "MN":
-        color = "Maroon";
-        break;
-    default:
-        color = "White";
-        break;
-}
+    current = random.Next(1, 11);
+    monster -= current;
+    Console.WriteLine($"Monster health : {monster} , Damage health : {current}");
 
-switch (product[2])
-{
-    case "S":
-        size = "Small";
+    if (monster <= 0)
+    {
+        Console.WriteLine("\nHero Win!\n");
         break;
-    case "M":
-        size = "Medium";
-        break;
-    case "L":
-        size = "Large";
-        break;
-    default:
-        size = "One Size Fits All";
-        break;
-}
+    }
 
-Console.WriteLine($"Product: {type} {color} {size}");
+    current = random.Next(1, 11);
+    hero -= current;
+    Console.WriteLine($"Hero health : {hero}, Damage health : {current}");
+
+    if (hero <= 0)
+    {
+        Console.WriteLine("\nMonster Win!\n");
+        break;
+    }
+
+} while (hero > 0 && monster > 0);

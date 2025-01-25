@@ -1,0 +1,15 @@
+/home/ashraful-islam/Documents/C#-learning/Project_2/bin/Debug/net8.0/Project_2
+/home/ashraful-islam/Documents/C#-learning/Project_2/bin/Debug/net8.0/Project_2.deps.json
+/home/ashraful-islam/Documents/C#-learning/Project_2/bin/Debug/net8.0/Project_2.runtimeconfig.json
+/home/ashraful-islam/Documents/C#-learning/Project_2/bin/Debug/net8.0/Project_2.dll
+/home/ashraful-islam/Documents/C#-learning/Project_2/bin/Debug/net8.0/Project_2.pdb
+/home/ashraful-islam/Documents/C#-learning/Project_2/obj/Debug/net8.0/Project_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/ashraful-islam/Documents/C#-learning/Project_2/obj/Debug/net8.0/Project_2.AssemblyInfoInputs.cache
+/home/ashraful-islam/Documents/C#-learning/Project_2/obj/Debug/net8.0/Project_2.AssemblyInfo.cs
+/home/ashraful-islam/Documents/C#-learning/Project_2/obj/Debug/net8.0/Project_2.csproj.CoreCompileInputs.cache
+/home/ashraful-islam/Documents/C#-learning/Project_2/obj/Debug/net8.0/Project_2.sourcelink.json
+/home/ashraful-islam/Documents/C#-learning/Project_2/obj/Debug/net8.0/Project_2.dll
+/home/ashraful-islam/Documents/C#-learning/Project_2/obj/Debug/net8.0/refint/Project_2.dll
+/home/ashraful-islam/Documents/C#-learning/Project_2/obj/Debug/net8.0/Project_2.pdb
+/home/ashraful-islam/Documents/C#-learning/Project_2/obj/Debug/net8.0/Project_2.genruntimeconfig.cache
+/home/ashraful-islam/Documents/C#-learning/Project_2/obj/Debug/net8.0/ref/Project_2.dll

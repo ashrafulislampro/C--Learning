@@ -1,0 +1,15 @@
+/home/ashraful-islam/Documents/C#-learning/difference/bin/Debug/net8.0/difference
+/home/ashraful-islam/Documents/C#-learning/difference/bin/Debug/net8.0/difference.deps.json
+/home/ashraful-islam/Documents/C#-learning/difference/bin/Debug/net8.0/difference.runtimeconfig.json
+/home/ashraful-islam/Documents/C#-learning/difference/bin/Debug/net8.0/difference.dll
+/home/ashraful-islam/Documents/C#-learning/difference/bin/Debug/net8.0/difference.pdb
+/home/ashraful-islam/Documents/C#-learning/difference/obj/Debug/net8.0/difference.GeneratedMSBuildEditorConfig.editorconfig
+/home/ashraful-islam/Documents/C#-learning/difference/obj/Debug/net8.0/difference.AssemblyInfoInputs.cache
+/home/ashraful-islam/Documents/C#-learning/difference/obj/Debug/net8.0/difference.AssemblyInfo.cs
+/home/ashraful-islam/Documents/C#-learning/difference/obj/Debug/net8.0/difference.csproj.CoreCompileInputs.cache
+/home/ashraful-islam/Documents/C#-learning/difference/obj/Debug/net8.0/difference.sourcelink.json
+/home/ashraful-islam/Documents/C#-learning/difference/obj/Debug/net8.0/difference.dll
+/home/ashraful-islam/Documents/C#-learning/difference/obj/Debug/net8.0/refint/difference.dll
+/home/ashraful-islam/Documents/C#-learning/difference/obj/Debug/net8.0/difference.pdb
+/home/ashraful-islam/Documents/C#-learning/difference/obj/Debug/net8.0/difference.genruntimeconfig.cache
+/home/ashraful-islam/Documents/C#-learning/difference/obj/Debug/net8.0/ref/difference.dll

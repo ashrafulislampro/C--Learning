@@ -1,0 +1,15 @@
+/home/ashraful-islam/Documents/C#-learning/Conditional_branching/bin/Debug/net8.0/Conditional_branching
+/home/ashraful-islam/Documents/C#-learning/Conditional_branching/bin/Debug/net8.0/Conditional_branching.deps.json
+/home/ashraful-islam/Documents/C#-learning/Conditional_branching/bin/Debug/net8.0/Conditional_branching.runtimeconfig.json
+/home/ashraful-islam/Documents/C#-learning/Conditional_branching/bin/Debug/net8.0/Conditional_branching.dll
+/home/ashraful-islam/Documents/C#-learning/Conditional_branching/bin/Debug/net8.0/Conditional_branching.pdb
+/home/ashraful-islam/Documents/C#-learning/Conditional_branching/obj/Debug/net8.0/Conditional_branching.GeneratedMSBuildEditorConfig.editorconfig
+/home/ashraful-islam/Documents/C#-learning/Conditional_branching/obj/Debug/net8.0/Conditional_branching.AssemblyInfoInputs.cache
+/home/ashraful-islam/Documents/C#-learning/Conditional_branching/obj/Debug/net8.0/Conditional_branching.AssemblyInfo.cs
+/home/ashraful-islam/Documents/C#-learning/Conditional_branching/obj/Debug/net8.0/Conditional_branching.csproj.CoreCompileInputs.cache
+/home/ashraful-islam/Documents/C#-learning/Conditional_branching/obj/Debug/net8.0/Conditional_branching.sourcelink.json
+/home/ashraful-islam/Documents/C#-learning/Conditional_branching/obj/Debug/net8.0/Conditional_branching.dll
+/home/ashraful-islam/Documents/C#-learning/Conditional_branching/obj/Debug/net8.0/refint/Conditional_branching.dll
+/home/ashraful-islam/Documents/C#-learning/Conditional_branching/obj/Debug/net8.0/Conditional_branching.pdb
+/home/ashraful-islam/Documents/C#-learning/Conditional_branching/obj/Debug/net8.0/Conditional_branching.genruntimeconfig.cache
+/home/ashraful-islam/Documents/C#-learning/Conditional_branching/obj/Debug/net8.0/ref/Conditional_branching.dll

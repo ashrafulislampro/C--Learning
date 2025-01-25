@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ashraful-islam/Documents/C#-learning/Challenge-project/ConsoleApp1.csproj",
+      "projectUniqueName": "/home/ashraful-islam/Documents/C#-learning/ConsoleApp1/ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "/home/ashraful-islam/Documents/C#-learning/Challenge-project/ConsoleApp1.csproj",
+      "projectPath": "/home/ashraful-islam/Documents/C#-learning/ConsoleApp1/ConsoleApp1.csproj",
       "packagesPath": "/home/ashraful-islam/.nuget/packages/",
-      "outputPath": "/home/ashraful-islam/Documents/C#-learning/Challenge-project/obj/",
+      "outputPath": "/home/ashraful-islam/Documents/C#-learning/ConsoleApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ashraful-islam/.nuget/NuGet/NuGet.Config"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.405/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
