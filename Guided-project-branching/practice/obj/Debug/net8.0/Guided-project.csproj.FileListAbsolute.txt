@@ -1,0 +1,15 @@
+/home/ashraful-islam/Documents/C#-learning/Guided-project-branching/practice/bin/Debug/net8.0/Guided-project
+/home/ashraful-islam/Documents/C#-learning/Guided-project-branching/practice/bin/Debug/net8.0/Guided-project.deps.json
+/home/ashraful-islam/Documents/C#-learning/Guided-project-branching/practice/bin/Debug/net8.0/Guided-project.runtimeconfig.json
+/home/ashraful-islam/Documents/C#-learning/Guided-project-branching/practice/bin/Debug/net8.0/Guided-project.dll
+/home/ashraful-islam/Documents/C#-learning/Guided-project-branching/practice/bin/Debug/net8.0/Guided-project.pdb
+/home/ashraful-islam/Documents/C#-learning/Guided-project-branching/practice/obj/Debug/net8.0/Guided-project.GeneratedMSBuildEditorConfig.editorconfig
+/home/ashraful-islam/Documents/C#-learning/Guided-project-branching/practice/obj/Debug/net8.0/Guided-project.AssemblyInfoInputs.cache
+/home/ashraful-islam/Documents/C#-learning/Guided-project-branching/practice/obj/Debug/net8.0/Guided-project.AssemblyInfo.cs
+/home/ashraful-islam/Documents/C#-learning/Guided-project-branching/practice/obj/Debug/net8.0/Guided-project.csproj.CoreCompileInputs.cache
+/home/ashraful-islam/Documents/C#-learning/Guided-project-branching/practice/obj/Debug/net8.0/Guided-project.sourcelink.json
+/home/ashraful-islam/Documents/C#-learning/Guided-project-branching/practice/obj/Debug/net8.0/Guided-project.dll
+/home/ashraful-islam/Documents/C#-learning/Guided-project-branching/practice/obj/Debug/net8.0/refint/Guided-project.dll
+/home/ashraful-islam/Documents/C#-learning/Guided-project-branching/practice/obj/Debug/net8.0/Guided-project.pdb
+/home/ashraful-islam/Documents/C#-learning/Guided-project-branching/practice/obj/Debug/net8.0/Guided-project.genruntimeconfig.cache
+/home/ashraful-islam/Documents/C#-learning/Guided-project-branching/practice/obj/Debug/net8.0/ref/Guided-project.dll
