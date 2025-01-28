@@ -1,0 +1,15 @@
+/home/ashraful-islam/Documents/C#-learning/Problem_Solve/bin/Debug/net8.0/Problem_Solve
+/home/ashraful-islam/Documents/C#-learning/Problem_Solve/bin/Debug/net8.0/Problem_Solve.deps.json
+/home/ashraful-islam/Documents/C#-learning/Problem_Solve/bin/Debug/net8.0/Problem_Solve.runtimeconfig.json
+/home/ashraful-islam/Documents/C#-learning/Problem_Solve/bin/Debug/net8.0/Problem_Solve.dll
+/home/ashraful-islam/Documents/C#-learning/Problem_Solve/bin/Debug/net8.0/Problem_Solve.pdb
+/home/ashraful-islam/Documents/C#-learning/Problem_Solve/obj/Debug/net8.0/Problem_Solve.GeneratedMSBuildEditorConfig.editorconfig
+/home/ashraful-islam/Documents/C#-learning/Problem_Solve/obj/Debug/net8.0/Problem_Solve.AssemblyInfoInputs.cache
+/home/ashraful-islam/Documents/C#-learning/Problem_Solve/obj/Debug/net8.0/Problem_Solve.AssemblyInfo.cs
+/home/ashraful-islam/Documents/C#-learning/Problem_Solve/obj/Debug/net8.0/Problem_Solve.csproj.CoreCompileInputs.cache
+/home/ashraful-islam/Documents/C#-learning/Problem_Solve/obj/Debug/net8.0/Problem_Solve.sourcelink.json
+/home/ashraful-islam/Documents/C#-learning/Problem_Solve/obj/Debug/net8.0/Problem_Solve.dll
+/home/ashraful-islam/Documents/C#-learning/Problem_Solve/obj/Debug/net8.0/refint/Problem_Solve.dll
+/home/ashraful-islam/Documents/C#-learning/Problem_Solve/obj/Debug/net8.0/Problem_Solve.pdb
+/home/ashraful-islam/Documents/C#-learning/Problem_Solve/obj/Debug/net8.0/Problem_Solve.genruntimeconfig.cache
+/home/ashraful-islam/Documents/C#-learning/Problem_Solve/obj/Debug/net8.0/ref/Problem_Solve.dll

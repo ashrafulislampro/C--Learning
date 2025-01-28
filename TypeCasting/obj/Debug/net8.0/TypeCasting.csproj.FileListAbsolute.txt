@@ -1,0 +1,15 @@
+/home/ashraful-islam/Documents/C#-learning/TypeCasting/bin/Debug/net8.0/TypeCasting
+/home/ashraful-islam/Documents/C#-learning/TypeCasting/bin/Debug/net8.0/TypeCasting.deps.json
+/home/ashraful-islam/Documents/C#-learning/TypeCasting/bin/Debug/net8.0/TypeCasting.runtimeconfig.json
+/home/ashraful-islam/Documents/C#-learning/TypeCasting/bin/Debug/net8.0/TypeCasting.dll
+/home/ashraful-islam/Documents/C#-learning/TypeCasting/bin/Debug/net8.0/TypeCasting.pdb
+/home/ashraful-islam/Documents/C#-learning/TypeCasting/obj/Debug/net8.0/TypeCasting.GeneratedMSBuildEditorConfig.editorconfig
+/home/ashraful-islam/Documents/C#-learning/TypeCasting/obj/Debug/net8.0/TypeCasting.AssemblyInfoInputs.cache
+/home/ashraful-islam/Documents/C#-learning/TypeCasting/obj/Debug/net8.0/TypeCasting.AssemblyInfo.cs
+/home/ashraful-islam/Documents/C#-learning/TypeCasting/obj/Debug/net8.0/TypeCasting.csproj.CoreCompileInputs.cache
+/home/ashraful-islam/Documents/C#-learning/TypeCasting/obj/Debug/net8.0/TypeCasting.sourcelink.json
+/home/ashraful-islam/Documents/C#-learning/TypeCasting/obj/Debug/net8.0/TypeCasting.dll
+/home/ashraful-islam/Documents/C#-learning/TypeCasting/obj/Debug/net8.0/refint/TypeCasting.dll
+/home/ashraful-islam/Documents/C#-learning/TypeCasting/obj/Debug/net8.0/TypeCasting.pdb
+/home/ashraful-islam/Documents/C#-learning/TypeCasting/obj/Debug/net8.0/TypeCasting.genruntimeconfig.cache
+/home/ashraful-islam/Documents/C#-learning/TypeCasting/obj/Debug/net8.0/ref/TypeCasting.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Guided-project-branching")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2767a81f08510722b499459f013cbfb4c585225f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+473963d08af7564015e18a9039412384ac879b1f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Guided-project-branching")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Guided-project-branching")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

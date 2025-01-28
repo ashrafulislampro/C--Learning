@@ -267,7 +267,7 @@ do
                 Console.WriteLine("Press the Enter key to continue.");
                 readResult = Console.ReadLine();
             }
-
+            
             break;
 
         case "3":
