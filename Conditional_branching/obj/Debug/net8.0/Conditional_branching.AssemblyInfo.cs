@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Conditional_branching")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+473963d08af7564015e18a9039412384ac879b1f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7690c6480ac3e75c54727a37e858b64487476a59")]
 [assembly: System.Reflection.AssemblyProductAttribute("Conditional_branching")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Conditional_branching")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
