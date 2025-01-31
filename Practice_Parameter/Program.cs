@@ -224,67 +224,214 @@ void DisplayRandomNumbers()
 
 
 
-int[] times = { 800, 1200, 1600, 2000 };
-int diff = 0;
+// int[] times = { 800, 1200, 1600, 2000 };
+// int diff = 0;
 
-Console.WriteLine("Enter current GMT");
-int currentGMT = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Enter current GMT");
+// int currentGMT = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine("Current Medicine Schedule: ");
+// Console.WriteLine("Current Medicine Schedule: ");
 
-// Format and display medicine times
-DisplayTimes();
-Console.WriteLine();
-Console.WriteLine("Enter new GMT");
-int newGMT = Convert.ToInt32(Console.ReadLine());
+// // Format and display medicine times
+// DisplayTimes();
+// Console.WriteLine();
+// Console.WriteLine("Enter new GMT");
+// int newGMT = Convert.ToInt32(Console.ReadLine());
 
-if (Math.Abs(newGMT) > 12 || Math.Abs(currentGMT) > 12)
+// if (Math.Abs(newGMT) > 12 || Math.Abs(currentGMT) > 12)
+// {
+//     Console.WriteLine("Invalid GMT");
+// }
+// else if (newGMT <= 0 && currentGMT <= 0 || newGMT >= 0 && currentGMT >= 0)
+// {
+//     diff = 100 * (Math.Abs(newGMT) - Math.Abs(currentGMT));
+//     AdjustTime();
+// }
+// else
+// {
+//     diff = 100 * (Math.Abs(newGMT) + Math.Abs(currentGMT));
+//     AdjustTime();
+// }
+// Console.WriteLine("New Medicine Schedule:");
+// DisplayTimes();
+
+// void AdjustTime()
+// {
+//     /* Adjust the times by adding the difference, keeping the value within 24 hours */
+//     for (int i = 0; i < times.Length; i++)
+//     {
+//         times[i] = ((times[i] + diff)) % 2400;
+//     }
+// }
+
+// void DisplayTimes()
+// {
+//     // formate and display medicine times   
+//     foreach (int val in times)
+//     {
+//         string time = val.ToString();
+//         int len = time.Length;
+
+//         if (len >= 3)
+//         {
+//             time = time.Insert(len - 2, ":");
+//         }
+//         else if (len == 2)
+//         {
+//             time = time.Insert(0, "0:");
+//         }
+//         else
+//         {
+//             time = time.Insert(0, "0:0");
+//         }
+//         Console.Write($"{time} ");
+//     }
+//     Console.WriteLine();
+// }
+
+
+
+// string ipv4Input = "107.31.1.5";
+bool validLength = false;
+bool validZeroes = false;
+bool validRange = false;
+string[] address;
+string[] ipv4Input = { "107.31.1.5", "255.0.0.255", "555..0.555", "255...255" };
+
+foreach (string ip in ipv4Input)
 {
-    Console.WriteLine("Invalid GMT");
-}
-else if (newGMT <= 0 && currentGMT <= 0 || newGMT >= 0 && currentGMT >= 0)
-{
-    diff = 100 * (Math.Abs(newGMT) - Math.Abs(currentGMT));
-    AdjustTime();
-}
-else
-{
-    diff = 100 * (Math.Abs(newGMT) + Math.Abs(currentGMT));
-    AdjustTime();
-}
-Console.WriteLine("New Medicine Schedule:");
-DisplayTimes();
+    address = ip.Split(".", StringSplitOptions.RemoveEmptyEntries);
 
-void AdjustTime()
-{
-    /* Adjust the times by adding the difference, keeping the value within 24 hours */
-    for (int i = 0; i < times.Length; i++)
+    ValidateLength();
+    ValidateZeroes();
+    ValidateRange();
+    if (validLength && validZeroes && validRange)
     {
-        times[i] = ((times[i] + diff)) % 2400;
+        // Console.WriteLine($"{ip} is a valid IPv4 address");
+    }
+    else
+    {
+        // Console.WriteLine($"{ip} is an invalid IPv4 address");
     }
 }
 
-void DisplayTimes()
+void ValidateLength()
 {
-    // formate and display medicine times   
-    foreach (int val in times)
-    {
-        string time = val.ToString();
-        int len = time.Length;
+    validLength = address.Length == 4;
+}
+;
 
-        if (len >= 3)
+void ValidateZeroes()
+{
+
+    foreach (string number in address)
+    {
+        if (number.Length > 1 && number.StartsWith("0"))
         {
-            time = time.Insert(len - 2, ":");
+            validZeroes = false;
+            return;
         }
-        else if (len == 2)
-        {
-            time = time.Insert(0, "0:");
-        }
-        else
-        {
-            time = time.Insert(0, "0:0");
-        }
-        Console.Write($"{time} ");
     }
-    Console.WriteLine();
+
+    validZeroes = true;
+}
+
+void ValidateRange()
+{
+
+    foreach (string number in address)
+    {
+        int value = int.Parse(number);
+        if (value < 0 || value > 255)
+        {
+            validRange = false;
+            return;
+        }
+    }
+    validRange = true;
+}
+
+double total = 0;
+double minimumSpend = 30.00;
+
+double[] items = { 15.97, 3.50, 12.25, 22.99, 10.98 };
+double[] discounts = { 0.30, 0.00, 0.10, 0.20, 0.50 };
+
+for (int i = 0; i < items.Length; i++)
+{
+    total += GetDiscountedPrice(i);
+}
+total -= TotalMeetsMinimum() ? 5.00 : 0.00;
+
+// Console.WriteLine($"Total: ${FormatDecimal(total)}");
+
+double GetDiscountedPrice(int itemIndex)
+{
+    return items[itemIndex] * (1 - discounts[itemIndex]);
+
+}
+
+bool TotalMeetsMinimum()
+{
+    return total >= minimumSpend;
+}
+
+string FormatDecimal(double input)
+{
+    return input.ToString().Substring(0, 5);
+}
+
+
+
+string ReverseWord(string word)
+{
+    string result = "";
+    for (int i = word.Length - 1; i >= 0; i--)
+    {
+        result += word[i];
+    }
+    return result;
+}
+string ReverseSentence(string input)
+{
+    string result = "";
+    string[] words = input.Split(" ");
+
+    foreach (string word in words)
+    {
+        result += ReverseWord(word) + " ";
+    }
+
+    return result.Trim();
+}
+
+string input = "there are snakes at the zoo";
+
+// Console.WriteLine(input);
+// Console.WriteLine(ReverseSentence(input));
+
+string[] words = { "racecar", "talented", "deified", "tent", "tenet" };
+
+Console.WriteLine("Is it a palindrome?");
+foreach (string word in words)
+{
+    Console.WriteLine($"{word}: {IsPalindrome(word)}");
+}
+
+bool IsPalindrome(string word)
+{
+    int start = 0;
+    int end = word.Length - 1;
+
+    while (start < end)
+    {
+        if (word[start] != word[end])
+        {
+            return false;
+        }
+        start++;
+        end--;
+    }
+
+    return true;
 }
