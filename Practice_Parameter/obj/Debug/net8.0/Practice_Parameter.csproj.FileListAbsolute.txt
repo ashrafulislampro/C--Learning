@@ -1,0 +1,15 @@
+/home/ashraful-islam/Documents/C#-learning/Practice_Parameter/bin/Debug/net8.0/Practice_Parameter
+/home/ashraful-islam/Documents/C#-learning/Practice_Parameter/bin/Debug/net8.0/Practice_Parameter.deps.json
+/home/ashraful-islam/Documents/C#-learning/Practice_Parameter/bin/Debug/net8.0/Practice_Parameter.runtimeconfig.json
+/home/ashraful-islam/Documents/C#-learning/Practice_Parameter/bin/Debug/net8.0/Practice_Parameter.dll
+/home/ashraful-islam/Documents/C#-learning/Practice_Parameter/bin/Debug/net8.0/Practice_Parameter.pdb
+/home/ashraful-islam/Documents/C#-learning/Practice_Parameter/obj/Debug/net8.0/Practice_Parameter.GeneratedMSBuildEditorConfig.editorconfig
+/home/ashraful-islam/Documents/C#-learning/Practice_Parameter/obj/Debug/net8.0/Practice_Parameter.AssemblyInfoInputs.cache
+/home/ashraful-islam/Documents/C#-learning/Practice_Parameter/obj/Debug/net8.0/Practice_Parameter.AssemblyInfo.cs
+/home/ashraful-islam/Documents/C#-learning/Practice_Parameter/obj/Debug/net8.0/Practice_Parameter.csproj.CoreCompileInputs.cache
+/home/ashraful-islam/Documents/C#-learning/Practice_Parameter/obj/Debug/net8.0/Practice_Parameter.sourcelink.json
+/home/ashraful-islam/Documents/C#-learning/Practice_Parameter/obj/Debug/net8.0/Practice_Parameter.dll
+/home/ashraful-islam/Documents/C#-learning/Practice_Parameter/obj/Debug/net8.0/refint/Practice_Parameter.dll
+/home/ashraful-islam/Documents/C#-learning/Practice_Parameter/obj/Debug/net8.0/Practice_Parameter.pdb
+/home/ashraful-islam/Documents/C#-learning/Practice_Parameter/obj/Debug/net8.0/Practice_Parameter.genruntimeconfig.cache
+/home/ashraful-islam/Documents/C#-learning/Practice_Parameter/obj/Debug/net8.0/ref/Practice_Parameter.dll
