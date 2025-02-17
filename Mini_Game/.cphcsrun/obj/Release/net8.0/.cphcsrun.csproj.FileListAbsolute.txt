@@ -1,0 +1,5 @@
+/home/ashraful-islam/Documents/C#-learning/Mini_Game/.cphcsrun/obj/Release/net8.0/.cphcsrun.GeneratedMSBuildEditorConfig.editorconfig
+/home/ashraful-islam/Documents/C#-learning/Mini_Game/.cphcsrun/obj/Release/net8.0/.cphcsrun.AssemblyInfoInputs.cache
+/home/ashraful-islam/Documents/C#-learning/Mini_Game/.cphcsrun/obj/Release/net8.0/.cphcsrun.AssemblyInfo.cs
+/home/ashraful-islam/Documents/C#-learning/Mini_Game/.cphcsrun/obj/Release/net8.0/.cphcsrun.csproj.CoreCompileInputs.cache
+/home/ashraful-islam/Documents/C#-learning/Mini_Game/.cphcsrun/obj/Release/net8.0/.cphcsrun.sourcelink.json

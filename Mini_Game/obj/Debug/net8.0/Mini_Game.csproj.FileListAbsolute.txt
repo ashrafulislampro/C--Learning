@@ -1,0 +1,15 @@
+/home/ashraful-islam/Documents/C#-learning/Mini_Game/bin/Debug/net8.0/Mini_Game
+/home/ashraful-islam/Documents/C#-learning/Mini_Game/bin/Debug/net8.0/Mini_Game.deps.json
+/home/ashraful-islam/Documents/C#-learning/Mini_Game/bin/Debug/net8.0/Mini_Game.runtimeconfig.json
+/home/ashraful-islam/Documents/C#-learning/Mini_Game/bin/Debug/net8.0/Mini_Game.dll
+/home/ashraful-islam/Documents/C#-learning/Mini_Game/bin/Debug/net8.0/Mini_Game.pdb
+/home/ashraful-islam/Documents/C#-learning/Mini_Game/obj/Debug/net8.0/Mini_Game.GeneratedMSBuildEditorConfig.editorconfig
+/home/ashraful-islam/Documents/C#-learning/Mini_Game/obj/Debug/net8.0/Mini_Game.AssemblyInfoInputs.cache
+/home/ashraful-islam/Documents/C#-learning/Mini_Game/obj/Debug/net8.0/Mini_Game.AssemblyInfo.cs
+/home/ashraful-islam/Documents/C#-learning/Mini_Game/obj/Debug/net8.0/Mini_Game.csproj.CoreCompileInputs.cache
+/home/ashraful-islam/Documents/C#-learning/Mini_Game/obj/Debug/net8.0/Mini_Game.sourcelink.json
+/home/ashraful-islam/Documents/C#-learning/Mini_Game/obj/Debug/net8.0/Mini_Game.dll
+/home/ashraful-islam/Documents/C#-learning/Mini_Game/obj/Debug/net8.0/refint/Mini_Game.dll
+/home/ashraful-islam/Documents/C#-learning/Mini_Game/obj/Debug/net8.0/Mini_Game.pdb
+/home/ashraful-islam/Documents/C#-learning/Mini_Game/obj/Debug/net8.0/Mini_Game.genruntimeconfig.cache
+/home/ashraful-islam/Documents/C#-learning/Mini_Game/obj/Debug/net8.0/ref/Mini_Game.dll

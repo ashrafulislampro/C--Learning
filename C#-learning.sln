@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student-Grading-Project", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_2", "Project_2\Project_2.csproj", "{4A62F499-C79E-7192-05A8-E7899A8DBC0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dice_Mini_Game_Challenge", "Dice_Mini_Game_Challenge\Dice_Mini_Game_Challenge.csproj", "{A7C5BFFA-3870-9C3A-4FF8-F32A3ECE4D81}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditional_branching", "Conditional_branching\Conditional_branching.csproj", "{F61E6A64-A424-26B4-8BEC-370870981119}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "difference", "difference\difference.csproj", "{7C11DE47-1302-C19B-581C-DD3561D6233C}"
@@ -22,6 +24,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice_Parameter", "Practice_Parameter\Practice_Parameter.csproj", "{ABF897F3-5267-F0EE-3549-67FB994194F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini_Game", "Mini_Game\Mini_Game.csproj", "{D6E6E5A1-4F67-DEA2-DE5E-8B2F5C30C8DB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge-project-Create-methods-in-CSharp-main", "Challenge-project-Create-methods-in-CSharp-main", "{2C914B8D-0BF6-3345-ED37-F9F7022643CF}"
+EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CsharpProject", "CsharpProject", "{983C9E70-5136-134B-0961-023B97CE5536}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Guided-project-Work-with-variable-data-in-CSharp-main", "Guided-project-Work-with-variable-data-in-CSharp-main", "{C99B159B-B171-BD3F-60C0-DD05A5AEE14A}"
@@ -35,6 +41,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge-project-foreach-if-array-CSharp-main", "Challenge-project-foreach-if-array-CSharp-main", "{9D47FA48-42EA-0B63-1A14-536534BE40FC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Guided-project-foreach-if-array-CSharp-main", "Guided-project-foreach-if-array-CSharp-main", "{891E9ACD-C241-6BAE-4899-7FAD360CD269}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final", "Challenge-project-Create-methods-in-CSharp-main\Final\Final.csproj", "{7A9EF9BA-D83D-3CD1-CF32-B93AC6C8A5E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starter", "Challenge-project-Create-methods-in-CSharp-main\Starter\Starter.csproj", "{AE386665-6CEF-F7F3-3452-98F3EEA47DD4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "CsharpProject\TestProject\TestProject.csproj", "{97169EAD-2538-877A-099A-3A4DC13D4319}"
 EndProject
@@ -88,6 +98,10 @@ Global
 		{4A62F499-C79E-7192-05A8-E7899A8DBC0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A62F499-C79E-7192-05A8-E7899A8DBC0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A62F499-C79E-7192-05A8-E7899A8DBC0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7C5BFFA-3870-9C3A-4FF8-F32A3ECE4D81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C5BFFA-3870-9C3A-4FF8-F32A3ECE4D81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C5BFFA-3870-9C3A-4FF8-F32A3ECE4D81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7C5BFFA-3870-9C3A-4FF8-F32A3ECE4D81}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F61E6A64-A424-26B4-8BEC-370870981119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F61E6A64-A424-26B4-8BEC-370870981119}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F61E6A64-A424-26B4-8BEC-370870981119}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -116,6 +130,18 @@ Global
 		{ABF897F3-5267-F0EE-3549-67FB994194F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABF897F3-5267-F0EE-3549-67FB994194F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABF897F3-5267-F0EE-3549-67FB994194F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6E6E5A1-4F67-DEA2-DE5E-8B2F5C30C8DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E6E5A1-4F67-DEA2-DE5E-8B2F5C30C8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E6E5A1-4F67-DEA2-DE5E-8B2F5C30C8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E6E5A1-4F67-DEA2-DE5E-8B2F5C30C8DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A9EF9BA-D83D-3CD1-CF32-B93AC6C8A5E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A9EF9BA-D83D-3CD1-CF32-B93AC6C8A5E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A9EF9BA-D83D-3CD1-CF32-B93AC6C8A5E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A9EF9BA-D83D-3CD1-CF32-B93AC6C8A5E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE386665-6CEF-F7F3-3452-98F3EEA47DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE386665-6CEF-F7F3-3452-98F3EEA47DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE386665-6CEF-F7F3-3452-98F3EEA47DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE386665-6CEF-F7F3-3452-98F3EEA47DD4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{97169EAD-2538-877A-099A-3A4DC13D4319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{97169EAD-2538-877A-099A-3A4DC13D4319}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97169EAD-2538-877A-099A-3A4DC13D4319}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -173,6 +199,8 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{7A9EF9BA-D83D-3CD1-CF32-B93AC6C8A5E8} = {2C914B8D-0BF6-3345-ED37-F9F7022643CF}
+		{AE386665-6CEF-F7F3-3452-98F3EEA47DD4} = {2C914B8D-0BF6-3345-ED37-F9F7022643CF}
 		{97169EAD-2538-877A-099A-3A4DC13D4319} = {983C9E70-5136-134B-0961-023B97CE5536}
 		{2BB70950-295D-56AF-1E97-C102EB7E7DF9} = {C99B159B-B171-BD3F-60C0-DD05A5AEE14A}
 		{DB8E69C9-6B45-C2A7-B707-5E0EBBB953E7} = {C99B159B-B171-BD3F-60C0-DD05A5AEE14A}
@@ -192,6 +220,6 @@ Global
 		{3C307162-A368-BE83-B2F9-7D569687E0F2} = {1FA762D3-0D3A-96F2-729E-715D6AA1B700}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F2DE4F5B-5AD0-4FEA-ABF0-54E3C76D0214}
+		SolutionGuid = {EC1A0090-A4F4-49B9-91A8-9E7EBFE9BE73}
 	EndGlobalSection
 EndGlobal

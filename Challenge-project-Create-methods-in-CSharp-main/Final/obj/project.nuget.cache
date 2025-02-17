@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4/AP9ffA/f4=",
+  "success": true,
+  "projectFilePath": "/home/ashraful-islam/Documents/C#-learning/Challenge-project-Create-methods-in-CSharp-main/Final/Final.csproj",
+  "expectedPackageFiles": [
+    "/home/ashraful-islam/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/home/ashraful-islam/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "/home/ashraful-islam/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.36/microsoft.netcore.app.host.linux-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

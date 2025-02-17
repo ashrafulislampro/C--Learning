@@ -24,14 +24,14 @@ namespace MyApp
             Console.WriteLine($"double : {double.MinValue} to {double.MaxValue} (with ~15-17 digits of precision)");
             Console.WriteLine($"decimal : {double.MinValue} to {double.MaxValue} (with ~28-29 digits of precision)");
 
-            reference of data types;
+            // reference of data types;
             int[] data = new int[3];
             foreach (int dl in data)
             {
                 Console.WriteLine(dl);
             }
 
-            integer value types
+            // integer value types
             int val_a = 2;
             int val_b = val_a;
             val_b = 5;
@@ -39,7 +39,7 @@ namespace MyApp
             Console.WriteLine($"Val_A : {val_a}");
             Console.WriteLine($"Val_B : {val_b}");
 
-            referece type
+            // referece type
             int[] ref_a = new int[1];
             ref_a[0] = 2;
             int[] ref_b = ref_a;
@@ -68,30 +68,30 @@ namespace MyApp
             int seconds = 9;
             string message = firsts.ToString() + seconds.ToString();
             Console.WriteLine(message);
-            string first = "5";
-            string second = "7";
-            int result = int.Parse(first) + int.Parse(second);
+            string first7 = "5";
+            string second9 = "7";
+            int result11 = int.Parse(first7) + int.Parse(second9);
             Console.WriteLine(result);
 
             string value1 = "5";
             string value2 = "7";
-            int result = Convert.ToInt32(value1) * Convert.ToInt32(value2);
+            int results = Convert.ToInt32(value1) * Convert.ToInt32(value2);
             int num = 0, num2 = 0;
             int.TryParse(value1, out num);
             int.TryParse(value2, out num2);
-            int result = num + num2;
+            int result9 = num + num2;
             Console.WriteLine(result);
 
             int value = (int)1.5m;
             Console.WriteLine(value);
-            int value2 = Convert.ToInt32(1.5m);
+            int value99 = Convert.ToInt32(1.5m);
             Console.WriteLine(value2);
 
             string name = "Bob";
             Console.WriteLine(int.Parse(name));
-            string value = "102";
-            int result = 0;
-            if (int.TryParse(value, out result))
+            string value66 = "102";
+            int result90 = 0;
+            if (int.TryParse(value66, out result90))
             {
                 Console.WriteLine($"MeasureMent : {result}");
             }
@@ -101,9 +101,9 @@ namespace MyApp
             }
 
             string[] values = { "12.3", "45", "ABC", "11", "DEF" };
-            string message = "";
+            string message90 = "";
             decimal sum = 0;
-            decimal num = 0;
+            decimal num6 = 0;
             foreach (string value in values)
             {
                 if (decimal.TryParse(value, out num))
@@ -228,12 +228,12 @@ namespace MyApp
                 }
             }
 
-            string first = "Hello";
-            string second = "World";
+            string first1 = "Hello";
+            string second2 = "World";
             String Formatting
-            string result = String.Format("{0} {1}!", first, second);
-            string result = String.Format("{0} {0} {0} {0}!", first, second);
-            string result = String.Format("{1} {1} {0} {0}!", first, second);
+            string result1 = String.Format("{0} {1}!", first, second);
+            string result2 = String.Format("{0} {0} {0} {0}!", first, second);
+            string result3 = String.Format("{1} {1} {0} {0}!", first, second);
             string Interpolation
             Console.WriteLine($"{first} {second}!");
             Console.WriteLine($"{second}! {first}");
@@ -247,7 +247,7 @@ namespace MyApp
             Console.WriteLine($"Measurement: {measurement:N4} units");
             decimal tax = .36785m;
             Console.WriteLine($"Tax rate: {tax:P2}");
-            decimal price = 67.55m;
+            // decimal price = 67.55m;
             decimal salePrice = 59.99m;
             string yourDiscount = String.Format("You saved {0:C2} off the regular {1:C2} price.", (price - salePrice), price);
             yourDiscount += $"A discount of {((price - salePrice) / price):P2}!";

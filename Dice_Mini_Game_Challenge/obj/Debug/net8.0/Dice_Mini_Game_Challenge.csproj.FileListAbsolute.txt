@@ -1,0 +1,15 @@
+/home/ashraful-islam/Documents/C#-learning/Dice_Mini_Game_Challenge/bin/Debug/net8.0/Dice_Mini_Game_Challenge
+/home/ashraful-islam/Documents/C#-learning/Dice_Mini_Game_Challenge/bin/Debug/net8.0/Dice_Mini_Game_Challenge.deps.json
+/home/ashraful-islam/Documents/C#-learning/Dice_Mini_Game_Challenge/bin/Debug/net8.0/Dice_Mini_Game_Challenge.runtimeconfig.json
+/home/ashraful-islam/Documents/C#-learning/Dice_Mini_Game_Challenge/bin/Debug/net8.0/Dice_Mini_Game_Challenge.dll
+/home/ashraful-islam/Documents/C#-learning/Dice_Mini_Game_Challenge/bin/Debug/net8.0/Dice_Mini_Game_Challenge.pdb
+/home/ashraful-islam/Documents/C#-learning/Dice_Mini_Game_Challenge/obj/Debug/net8.0/Dice_Mini_Game_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/ashraful-islam/Documents/C#-learning/Dice_Mini_Game_Challenge/obj/Debug/net8.0/Dice_Mini_Game_Challenge.AssemblyInfoInputs.cache
+/home/ashraful-islam/Documents/C#-learning/Dice_Mini_Game_Challenge/obj/Debug/net8.0/Dice_Mini_Game_Challenge.AssemblyInfo.cs
+/home/ashraful-islam/Documents/C#-learning/Dice_Mini_Game_Challenge/obj/Debug/net8.0/Dice_Mini_Game_Challenge.csproj.CoreCompileInputs.cache
+/home/ashraful-islam/Documents/C#-learning/Dice_Mini_Game_Challenge/obj/Debug/net8.0/Dice_Mini_Game_Challenge.sourcelink.json
+/home/ashraful-islam/Documents/C#-learning/Dice_Mini_Game_Challenge/obj/Debug/net8.0/Dice_Mini_Game_Challenge.dll
+/home/ashraful-islam/Documents/C#-learning/Dice_Mini_Game_Challenge/obj/Debug/net8.0/refint/Dice_Mini_Game_Challenge.dll
+/home/ashraful-islam/Documents/C#-learning/Dice_Mini_Game_Challenge/obj/Debug/net8.0/Dice_Mini_Game_Challenge.pdb
+/home/ashraful-islam/Documents/C#-learning/Dice_Mini_Game_Challenge/obj/Debug/net8.0/Dice_Mini_Game_Challenge.genruntimeconfig.cache
+/home/ashraful-islam/Documents/C#-learning/Dice_Mini_Game_Challenge/obj/Debug/net8.0/ref/Dice_Mini_Game_Challenge.dll

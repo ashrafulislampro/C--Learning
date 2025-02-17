@@ -1,0 +1,15 @@
+/home/ashraful-islam/Documents/C#-learning/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter
+/home/ashraful-islam/Documents/C#-learning/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter.deps.json
+/home/ashraful-islam/Documents/C#-learning/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/home/ashraful-islam/Documents/C#-learning/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter.dll
+/home/ashraful-islam/Documents/C#-learning/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/bin/Debug/net8.0/Starter.pdb
+/home/ashraful-islam/Documents/C#-learning/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/home/ashraful-islam/Documents/C#-learning/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/home/ashraful-islam/Documents/C#-learning/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/home/ashraful-islam/Documents/C#-learning/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/home/ashraful-islam/Documents/C#-learning/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.sourcelink.json
+/home/ashraful-islam/Documents/C#-learning/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.dll
+/home/ashraful-islam/Documents/C#-learning/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/refint/Starter.dll
+/home/ashraful-islam/Documents/C#-learning/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.pdb
+/home/ashraful-islam/Documents/C#-learning/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/home/ashraful-islam/Documents/C#-learning/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net8.0/ref/Starter.dll

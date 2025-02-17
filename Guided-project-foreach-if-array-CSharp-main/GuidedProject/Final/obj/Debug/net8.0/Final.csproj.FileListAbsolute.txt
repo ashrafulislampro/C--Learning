@@ -1,0 +1,15 @@
+/home/ashraful-islam/Documents/C#-learning/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final
+/home/ashraful-islam/Documents/C#-learning/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final.deps.json
+/home/ashraful-islam/Documents/C#-learning/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final.runtimeconfig.json
+/home/ashraful-islam/Documents/C#-learning/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final.dll
+/home/ashraful-islam/Documents/C#-learning/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final.pdb
+/home/ashraful-islam/Documents/C#-learning/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/home/ashraful-islam/Documents/C#-learning/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.AssemblyInfoInputs.cache
+/home/ashraful-islam/Documents/C#-learning/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.AssemblyInfo.cs
+/home/ashraful-islam/Documents/C#-learning/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.csproj.CoreCompileInputs.cache
+/home/ashraful-islam/Documents/C#-learning/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.sourcelink.json
+/home/ashraful-islam/Documents/C#-learning/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.dll
+/home/ashraful-islam/Documents/C#-learning/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/refint/Final.dll
+/home/ashraful-islam/Documents/C#-learning/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.pdb
+/home/ashraful-islam/Documents/C#-learning/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.genruntimeconfig.cache
+/home/ashraful-islam/Documents/C#-learning/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/ref/Final.dll
