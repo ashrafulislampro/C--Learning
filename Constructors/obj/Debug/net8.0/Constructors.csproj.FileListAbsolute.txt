@@ -1,0 +1,15 @@
+/home/ashraful-islam/Documents/C#-learning/Constructors/bin/Debug/net8.0/Constructors
+/home/ashraful-islam/Documents/C#-learning/Constructors/bin/Debug/net8.0/Constructors.deps.json
+/home/ashraful-islam/Documents/C#-learning/Constructors/bin/Debug/net8.0/Constructors.runtimeconfig.json
+/home/ashraful-islam/Documents/C#-learning/Constructors/bin/Debug/net8.0/Constructors.dll
+/home/ashraful-islam/Documents/C#-learning/Constructors/bin/Debug/net8.0/Constructors.pdb
+/home/ashraful-islam/Documents/C#-learning/Constructors/obj/Debug/net8.0/Constructors.GeneratedMSBuildEditorConfig.editorconfig
+/home/ashraful-islam/Documents/C#-learning/Constructors/obj/Debug/net8.0/Constructors.AssemblyInfoInputs.cache
+/home/ashraful-islam/Documents/C#-learning/Constructors/obj/Debug/net8.0/Constructors.AssemblyInfo.cs
+/home/ashraful-islam/Documents/C#-learning/Constructors/obj/Debug/net8.0/Constructors.csproj.CoreCompileInputs.cache
+/home/ashraful-islam/Documents/C#-learning/Constructors/obj/Debug/net8.0/Constructors.sourcelink.json
+/home/ashraful-islam/Documents/C#-learning/Constructors/obj/Debug/net8.0/Constructors.dll
+/home/ashraful-islam/Documents/C#-learning/Constructors/obj/Debug/net8.0/refint/Constructors.dll
+/home/ashraful-islam/Documents/C#-learning/Constructors/obj/Debug/net8.0/Constructors.pdb
+/home/ashraful-islam/Documents/C#-learning/Constructors/obj/Debug/net8.0/Constructors.genruntimeconfig.cache
+/home/ashraful-islam/Documents/C#-learning/Constructors/obj/Debug/net8.0/ref/Constructors.dll
