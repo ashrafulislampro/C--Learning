@@ -8,16 +8,16 @@
 
 - 📚 Gained hands-on experience with C# fundamentals, including:
 
-<ul>
-<li> Variables, data types, and control flow </li>
+- <ul>
+    <li> Variables, data types, and control flow </li>
 
-<li> Object-oriented programming (OOP) principles</li>
+    <li> Object-oriented programming (OOP) principles</li>
 
-<li> Classes, objects, methods, and interfaces </li>
+    <li> Classes, objects, methods, and interfaces </li>
 
-<li> Error handling and debugging techniques</li>
+    <li> Error handling and debugging techniques</li>
 
-<li> Working with .NET and the C# runtime environment</li>
-</ul>
+    <li> Working with .NET and the C# runtime environment</li>
+  </ul>
 
 ![Certificate](image/csharp.png)
