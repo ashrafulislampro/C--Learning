@@ -8,7 +8,7 @@
 
 - 📚 Gained hands-on experience with C# fundamentals, including:
 
-- <ul>
+  <ul>
     <li> Variables, data types, and control flow </li>
 
     <li> Object-oriented programming (OOP) principles</li>
