@@ -11,7 +11,9 @@ namespace MyApp
             CName c = A + B;
             Console.WriteLine(A.a + " " + A.b);
             Console.WriteLine(B.a + " " + B.b);
+            Console.WriteLine(B.a + " " + B.b);
             Console.WriteLine(c.a + " " + c.b);
+
 
 
             // BankAccount obj = new BankAccount("Ashraful", 22334455, "student");
