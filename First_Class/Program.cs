@@ -1,88 +1,106 @@
 ﻿using System;
+using System.Security.Cryptography.X509Certificates;
 namespace MyApp
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Count_Digit obj = new Count_Digit(2241081055);
+            CName A = new CName();
+            CName B = new CName();
+            CName c = A + B;
+            Console.WriteLine(A.a + " " + A.b);
+            Console.WriteLine(B.a + " " + B.b);
+            Console.WriteLine(c.a + " " + c.b);
 
-            obj.PrintDigit();
+
+            // BankAccount obj = new BankAccount("Ashraful", 22334455, "student");
+            // // obj.account_details();
+
+            // obj.addBalance(5000);
+            // // obj.checkBalance();
+            // obj.withdraw(5000);
+            // obj.transfer("Jubayer", 2000);
 
 
-            Console.WriteLine("");
-
-
-            
-            // Creating customer objects
-            Customer customer1 = new Customer("Alice", "C001", "0123456789", true, "1234-5678-9012-3456", 5000);
-            Customer customer2 = new Customer("Bob", "C002", "0987654321", false, "9876-5432-1098-7654", 3000);
-
-            // Displaying details
-            customer1.PrintCustomerDetails();
-            customer2.PrintCustomerDetails();
         }
     }
 }
-
-class Count_Digit
+// Operator Overloading 
+class CName
 {
-    public long id;
-    public int count;
-    public Count_Digit(long id)
+    public int a = 5;
+    public int b = 4;
+    public static CName operator +(CName A, CName B)
     {
-        this.id = id;
+        CName c = new CName();
+        c.a = A.a + B.a;
+        c.b = B.b + A.b;
+        return c;
     }
-    public void PrintDigit()
+}
+class BankAccount
+{
+
+    public string? user__name;
+    public int account_number;
+    public decimal balance;
+    public string? account_type;
+
+
+    public BankAccount(string name, int account_number, string account_type)
     {
-        while (id != 0)
+        this.user__name = name;
+        this.account_number = account_number;
+        this.account_type = account_type;
+    }
+    public void addBalance(decimal bal)
+    {
+        balance += bal;
+        Console.WriteLine("Add Balance Successfully");
+    }
+    public void withdraw(decimal bal)
+    {
+        decimal tmp = balance - bal;
+        if (tmp < 500)
         {
-            id /= 10;
-            count++;
+            Console.WriteLine("You must have to minimum 500 taka into your account");
         }
-        Console.WriteLine($"ID Total Digit = {count}");
+        else if (bal > balance)
+        {
+            Console.WriteLine($"Insufficient  Balance");
+        }
+        else
+        {
+            balance -= bal;
+            Console.WriteLine($"Withdraw = {bal}");
+
+        }
+
     }
-
-}
-
-class Customer
-{
-    // Private fields for Encapsulation
-    private string? name;
-    private string? customerID;
-    private string? contactNumber;
-    private bool isMember;
-    private string? creditCardInfo;
-    private double totalExpense;
-
-    // Constructor
-    public Customer(string name, string customerID, string contactNumber, bool isMember, string creditCardInfo, double totalExpense)
+    public void account_details()
     {
-        this.name = name;
-        this.customerID = customerID;
-        this.contactNumber = contactNumber;
-        this.isMember = isMember;
-        this.creditCardInfo = creditCardInfo;
-        this.totalExpense = totalExpense;
+        Console.WriteLine($"User Name = {user__name}");
+        Console.WriteLine($"Account Number = {account_number}");
+        Console.WriteLine($"Account Type = {account_type}");
+        Console.WriteLine($"Current Balance = {balance}");
+        Console.WriteLine("");
     }
-
-    // Method to calculate discount
-    public double GetDiscount()
+    public void checkBalance()
     {
-        return isMember ? 0.20 * totalExpense : 0.10 * totalExpense;
+        Console.WriteLine($"Current Balance = {balance}");
     }
-
-
-    public void PrintCustomerDetails()
+    public void transfer(string name, decimal bal)
     {
-        Console.WriteLine("Customer Details:");
-        Console.WriteLine("Name: " + name);
-        Console.WriteLine("Customer ID: " + customerID);
-        Console.WriteLine("Contact Number: " + contactNumber);
-        Console.WriteLine("Membership Status: " + (isMember ? "Member" : "Non-Member"));
-        Console.WriteLine("Total Expense: " + totalExpense);
-        Console.WriteLine("Discount Received: " + GetDiscount());
-        Console.WriteLine("Final Amount to Pay: " + (totalExpense - GetDiscount()));
-        Console.WriteLine("----------------------------------");
+        if (balance >= 500)
+        {
+            balance -= bal;
+            Console.WriteLine($"Transfer Successfully to {name}, balance {bal}");
+        }
+        else
+        {
+
+            Console.WriteLine($"Insufficient  Balance");
+        }
     }
 }
